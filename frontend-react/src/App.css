@@ -1,0 +1,22 @@
+#root {
+    min-width: 100vw;
+    min-height: 100vh;
+    background-color: #fff;
+    font-family: "Roboto", sans-serif !important;
+    font-weight: 500;
+    overflow-x: hidden;
+}
+
+body {
+    margin: 0px;
+}
+
+::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: gray;
+    border-radius: 10px;
+}
